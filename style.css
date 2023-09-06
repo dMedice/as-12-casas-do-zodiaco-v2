@@ -1,0 +1,41 @@
+.style {
+    background-color:rgb(152, 236, 249);
+    text-align: center;
+}
+img {
+    align-items: center;
+}
+
+body {
+    align-items: center;
+    background-image:url(https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/d9d7ad104360973.5f6142500e188.png) ;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+
+button {
+    background-color: rgb(187, 187, 255);
+    align-items: center;
+}
+
+input {
+    background-color: rgb(181, 208, 228);
+    text-align: center;
+}
+
+h4 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-family:monospace;
+}
+h3 {
+    font-family:'Lucida Sans';
+}
+h1 {
+    font-family:monospace;
+}
